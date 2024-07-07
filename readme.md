@@ -1,4 +1,4 @@
-# Social Proof Section
+# Huddle-landing-page
 
 ## Description
 
@@ -13,7 +13,9 @@ Ce projet est une section de preuve sociale, illustrant les témoignages et les 
 - HTML5
 - CSS3 (Sass)
 - JavaScript (si applicable)
-- [League Spartan](https://fonts.google.com/specimen/League+Spartan) pour la typographie
+- @import url("https://fonts.googleapis.com/css?family=Poppins:275,200,400,500,600"); => Poppins
+- @import url("https://fonts.googleapis.com/css?family=Open+Sans:275,200,400,500,600"); => Open+Sans
+ pour la typographie
 
 ## Structure du projet
 
@@ -23,9 +25,9 @@ Huddle-landing-page/
 │ ├── Desktop.jpg
 │ ├── Path 2 Copy.png
 │ ├── Path 2.png
-│ ├── 
-│ ├── 
-│ └── 
+│ ├── Group 18.png
+│ ├── Group 41.png
+│ └── Logo.svg
 ├── sass/
 │ └── style.scss
 ├── index.html
@@ -33,3 +35,9 @@ Huddle-landing-page/
 
 # description
 Ce fichier README fournit une vue d'ensemble complète du projet, incluant la description, les technologies utilisées, les instructions d'installation et d'utilisation, ainsi que des liens vers les ressources et la démo en ligne.
+
+
+# link 
+github link: 
+
+vercel link:
