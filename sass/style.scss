@@ -181,7 +181,7 @@ body {
 .attribution {
     display: flex;
     justify-content: center;
-    color: #3D8168;
+    color: #ffffff;
     position: absolute;
     bottom: 20px;
     width: 100%;
@@ -194,7 +194,7 @@ body {
 }
 
 .attribution a:visited {
-    color: rgb(23, 150, 61); /* Couleur des liens visités */
+    color: rgb(0, 0, 0); /* Couleur des liens visités */
 }
 
 .attribution a:hover {
