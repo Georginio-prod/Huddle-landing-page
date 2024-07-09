@@ -38,6 +38,7 @@ Ce fichier README fournit une vue d'ensemble complète du projet, incluant la de
 
 
 # link 
-github link: 
 
-vercel link:
+# github link: 
+https://github.com/Georginio-prod/Huddle-landing-page
+# vercel link:
